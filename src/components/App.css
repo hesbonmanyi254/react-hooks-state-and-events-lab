@@ -1,0 +1,18 @@
+/* App.css */
+
+.App {
+    /* Common styles for both dark and light modes */
+  }
+  
+  .dark {
+    /* Styles for dark mode */
+    background-color: #222;
+    color: #fff;
+  }
+  
+  .light {
+    /* Styles for light mode */
+    background-color: #fff;
+    color: #333;
+  }
+  
